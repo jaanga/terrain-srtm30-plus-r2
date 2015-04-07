@@ -11,15 +11,20 @@
 
 [SRTM30 Plus Viewers]( ../terrain-srtm30-plus-viewers/terrain-srtm30-plus-viewers.html )
 
+View SRTM30 Plus data in 3D or as bitmaps as quickly and as easily as possible.
 
-## Data
+## Data (open)
 
-lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+[TMS 0-7 PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-1-7 )  
+[TMS 7+ PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
 
+View, access, fork or download the SRTM30 Plus open data.
 
-## Header 3
+## Attributions (open)
 
-lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+The following files are are of the the [SRTM30]( ftp://topex.ucsd.edu/pub/srtm30_plus/topo30/ ) Plus source
 
-
-
+[Read Me V 9.0]( #./srtm-license-copyright/README.V9.0.txt# )  
+[References SRTM Plus]( #./srtm-license-copyright/REFERENCES_SRTM30_PLUS.txt# )  
+[Copyright notice]( #./srtm-license-copyright/COPYRIGHT.txt# )  
+[General Attribution ( Microsoft Word file)]( ./srtm-license-copyright/general_attribution_011013.doc )

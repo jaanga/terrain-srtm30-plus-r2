@@ -35,6 +35,12 @@
 		menu.style.cssText = 'background-color: #eee; height: ' + ( 0.95 * window.innerHeight ) + 'px; left: -350px; opacity: 0.85; overflow: auto; ' +
 			'padding: 0 15px; position: absolute; top: 0px; width: 300px; ';
 
+		content = document.body.appendChild( document.createElement( 'div' ) );
+		content.style.cssText = 'border: 0px solid red; font: bold 12pt monospace; left: 350px; margin: 20px auto; position: absolute; ' +
+			'right: 0; max-width: 800px; ' +
+		'';
+
+
 		loadMarkdownInMenu( 'terrain-srtm30-plus-menu.md', menu );
 
 //		loadMarkdownInIframe( '#readme.md#' );
@@ -71,9 +77,9 @@
 
 			loadHTMLInIframe( location.hash );
 
-		} else if ( fileType === '.md' ) {
+		} else if ( fileType === '.md' || fileType === '.txt' ) {
 
-			loadMarkdownInIframe( location.hash );
+			loadMarkdownInDiv( fileName );
 
 		}
 
@@ -146,23 +152,23 @@
 	function toggle( element ) {
 
 		element = document.getElementById( element.id );
-		content = element.nextElementSibling;
+		var sibling = element.nextElementSibling;
 
-		if ( content.style.display === '' ) {
+		if ( sibling.style.display === '' ) {
 
-			while ( content && content.tagName !== 'H2' ) {
-				content.style.display = 'none';
-				content = content.nextElementSibling;
+			while ( sibling && sibling.tagName !== 'H2' ) {
+				sibling.style.display = 'none';
+				sibling = sibling.nextElementSibling;
 			}
 
 			element.className = 'toggle close';
 
 		} else {
 
-			while ( content && content.tagName !== 'H2' ) {
+			while ( sibling && sibling.tagName !== 'H2' ) {
 
-				content.style.display = '';
-				content = content.nextElementSibling;
+				sibling.style.display = '';
+				sibling = sibling.nextElementSibling;
 
 			}
 
@@ -187,15 +193,6 @@
 			if ( xmlHttp.readyState === 4  ) {
 
 				var text = xmlHttp.responseText;
-
-				if ( !content || !content.innerHTML ) {
-
-					content = document.body.appendChild( document.createElement( 'div' ) );
-					content.style.cssText = 'border: 0px solid red; font: bold 12pt monospace; left: 350px; margin: 20px auto; position: absolute; ' +
-						'right: 0; max-width: 800px; ' +
-					'';
-
-				} 
 
 				content.innerHTML = converter.makeHtml( text );
 
