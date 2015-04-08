@@ -34,6 +34,16 @@ From the Read Me
 An attempt was made to use the [SRTM15 Plus]( ftp://topex.ucsd.edu/pub/srtm15_plus/ ) data file, but the data appears to be in a different format than the SRTM30 Plus data. 
 Further efforts are required in order to decipher this format.
 
+
+## Data Viewers
+
+[Jaanga Terrain SRTM30 Plus Viewers]( http://jaanga.github.io/terrain-srtm30-plus-viewers/terrain-srtm30-plus-viewers.html ) 
+
+The mission is to be able to view data in 3D as quickly and as easily as possible.
+
+As of this writing, four viewers are supplied. Each only begins to scratch the surface of what is possible.
+
+
 ## Data Derivations
 
 The mission is to help global bathymetric data be readily available to researchers who may have limited programming experience.
@@ -47,14 +57,6 @@ Data on GitHub:
 
 
 A derived data set based on the  more standard 1 degree divisions will be made available in due course.
-
-
-## Data Viewers
-
-The mission is to be able to view data in 3D as quickly and as easily as possible.
-
-As of this writing, four viewers are supplied. Each only begins to scratch the surface of what is possible.
-
 
 
 
