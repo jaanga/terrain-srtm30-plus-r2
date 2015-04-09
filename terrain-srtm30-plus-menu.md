@@ -2,10 +2,10 @@
 [SRTM 30 Plus]( terrain-srtm30-plus.html )
 ===
 
-[GitHub web page]( http://jaanga.github.io/terrain-srtm30-plus-r2/terrain-srtm30-plus.html "view the files as apps." ) <input value="<< You are here" size=15 style="font:bold 11pt monospace;border-width:0;" >  
+[Read Me]( #readme.md# )
+
 &raquo; [GitHub source code]( https://github.com/jaanga/terrain-srtm30-plus-r2/ "View files with GitHub" ) <scan style=display:none ><< You are here</scan>  
 
-[Read Me]( #readme.md# )
 
 ## Viewers (open)
 
@@ -15,8 +15,8 @@ View SRTM30 Plus data in 3D or as bitmaps as quickly and as easily as possible.
 
 ## Data (open)
 
-[TMS 0-7 PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-1-7 )  
-[TMS 7+ PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
+&raquo; [TMS 0-7 PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-1-7 )  
+&raquo; [TMS 7+ PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
 
 View, access, fork or download the SRTM30 Plus open data.
 

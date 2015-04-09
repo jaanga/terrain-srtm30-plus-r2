@@ -3,13 +3,17 @@ Jaanga Terrain SRTM 30 Plus Read Me
 
 <span style=display:none; >[View as web page]( http://jaanga.github.io/terrain-srtm30-plus-r2/terrain-srtm30-plus.html "view the files as apps." ) <input value="<< You are here" size=15 style="font:bold 11pt monospace;border-width:0;" ></span>  
 
-Repositories with RTM30 Plus in the title are a set of repositories with derived data or data viewers that relate to the efforts of the 
+Jaanga Terrain repositories with SRTM30 Plus in the title are a set of repositories with derived data or data viewers that relate to the efforts of the: 
 
-
-[Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) at [UCSD]( https://scripps.ucsd.edu/ ). Includes open data and open source viewers.
+[Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) at [UCSD]( https://scripps.ucsd.edu/ ).
 More specifically, the data is sourced from the Scripps' [Satellite Geodesy]( http://topex.ucsd.edu/index.html ) web site.
 And even more specifically to the Institution's long-standing effort to supply and maintain a most accurate and most complete 
-single source of global bathymetric data.
+single source of global bathymetric data based on the [SRTM].
+
+The repositories include open data and open source viewers. Currently only data based on the SRTM30 plus project is available.
+And it is only available as PNG heightmaps organized in [Tile Mapping Service (TMS)]( http://en.wikipedia.org/wiki/Tile_Map_Service ) format.
+
+Future revisions should include more detailed data as well as heightmaps in the more traditional 1 degree x 1 dregree format.
 
 
 ## Data Sources
@@ -55,6 +59,8 @@ Data on GitHub:
 
 [TMS 7+ PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
 
+Some details as to why the TMS format is used are detailed in this earlier R1 web page:
+[Jaanga Terrain Further Considerations]( http://jaanga.github.io/terrain/readme-reader.html#further-considerations.md ).
 
 A derived data set based on the  more standard 1 degree divisions will be made available in due course.
 
