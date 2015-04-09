@@ -18,7 +18,7 @@ Future revisions should include more detailed data as well as heightmaps in the 
 
 ## Data Sources
 
-The data used here has been collected from:
+The elevation data used here has been collected from:
 
 <ftp://topex.ucsd.edu/pub/srtm30_plus/topo30/>
 
