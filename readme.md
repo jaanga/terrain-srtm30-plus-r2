@@ -3,17 +3,17 @@ Jaanga Terrain SRTM 30 Plus Read Me
 
 <span style=display:none; >[View as web page]( http://jaanga.github.io/terrain-srtm30-plus-r2/terrain-srtm30-plus.html "view the files as apps." ) <input value="<< You are here" size=15 style="font:bold 11pt monospace;border-width:0;" ></span>  
 
-Jaanga Terrain repositories with SRTM30 Plus in the title are a set of repositories with derived data or data viewers that relate to the efforts of the: 
+Jaanga Terrain repositories with 'SRTM30 Plus' in the title are a set of repositories with derived data or data viewers that relate to the efforts of the: 
 
 [Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) at [UCSD]( https://scripps.ucsd.edu/ ).
 More specifically, the data is sourced from the Scripps' [Satellite Geodesy]( http://topex.ucsd.edu/index.html ) web site.
-And even more specifically to the Institution's long-standing effort to supply and maintain a most accurate and most complete 
-single source of global bathymetric data based on the [SRTM].
+And even more specifically to the files relating to the Institution's long-standing effort to supply and maintain a most accurate and most complete 
+single source of global bathymetric data based on the [Shuttle Radar Topography Mission (SRTM)]( http://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission ).
 
-The repositories include open data and open source viewers. Currently only data based on the SRTM30 plus project is available.
-And it is only available as PNG heightmaps organized in [Tile Mapping Service (TMS)]( http://en.wikipedia.org/wiki/Tile_Map_Service ) format.
+The Jaanga Terrain repositories include both open data and open source data viewers. Currently the SRTM30 plus data is available in two formats.
 
-Future revisions should include more detailed data as well as heightmaps in the more traditional 1 degree x 1 dregree format.
+* PNG heightmaps organized in [Tile Mapping Service (TMS)]( http://en.wikipedia.org/wiki/Tile_Map_Service ) format.
+* PNG heightmaps organized on a 10x10 degree grid format
 
 
 ## Data Sources
@@ -22,7 +22,7 @@ The elevation data used here has been collected from:
 
 <ftp://topex.ucsd.edu/pub/srtm30_plus/topo30/>
 
-From the Read Me
+From the Read Me:
 
 >The  subdirectory called topo30 has the data 
 	stored in a single large file of 2-byte integers
@@ -51,20 +51,34 @@ As of this writing, four viewers are supplied. Each only begins to scratch the s
 ## Data Derivations
 
 The mission is to help global bathymetric data be readily available to researchers who may have limited programming experience.
-The first data set is a set of PNG heightmaps divided according to the TMS system. 
+The first data set is a collection of PNG heightmaps divided according to the TMS system. 
 
 Data on GitHub:
 
 [TMS 0-7 PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-1-7 )
 
-[TMS 7+ PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
-
-Some details as to why the TMS format is used are detailed in this earlier R1 web page:
+[TMS 7plus PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-tms-7plus )
+Some details as to why the TMS format is used are detailed in this earlier R1 web pag
+e:
 [Jaanga Terrain Further Considerations]( http://jaanga.github.io/terrain/readme-reader.html#further-considerations.md ).
 
-A derived data set based on the  more standard 1 degree divisions will be made available in due course.
+The second set of data is in the format of a 10x10 degree grid
 
+[10 Degree PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-10degree )
 
+## Code
+
+The tools to gather, parse and store the data are all built in JavaScript with the help of [node.js]( http://nodejs.org ).
+
+All of these tools are available in the [Jaanga Terrain Cookbook]( http://jaanga.github.io/terrain-r2/terrain.html#./cookbook/readme.md# ) along with descriptions and background on the application of the tools. 
+
+## Thanks
+
+See the files listed in the Attributions section of this menu.
+
+See also [Jaanga Terrain Thanks]( http://jaanga.github.io/terrain-r2/terrain.html#thanks.md# ) for more attributions.
+
+'We stand on the shoulders of giants...'
 
 
 
