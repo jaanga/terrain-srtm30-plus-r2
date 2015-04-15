@@ -15,6 +15,7 @@ The Jaanga Terrain repositories include both open data and open source data view
 * PNG heightmaps organized in [Tile Mapping Service (TMS)]( http://en.wikipedia.org/wiki/Tile_Map_Service ) format.
 * PNG heightmaps organized on a 10x10 degree grid format
 
+Apart from sharing a delight with cartography, Jaanga is not in anyway associated with the Scripps Institution of Oceanography.
 
 ## Data Sources
 
