@@ -17,6 +17,68 @@ The Jaanga Terrain repositories include both open data and open source data view
 
 Apart from sharing a delight with cartography, Jaanga is not in anyway associated with the Scripps Institution of Oceanography.
 
+## Background
+
+The bathymetric data is the result of a lot of research and a lot of work sustained over a period of many years.
+
+Among the may persons involved, two stand out:
+
+### Walter H F Smith
+
+* [NOAA STAR]( http://www.star.nesdis.noaa.gov/star/Smith_WHF.php ) << nice video
+* [Google Scholar]( https://scholar.google.com/citations?user=Qx0WxlIAAAAJ&hl=en )
+* [ResearchGate]( http://www.researchgate.net/profile/Walter_Smith5 )
+
+Co-author of the [Generic Mapping Tools]( http://www.soest.hawaii.edu/gmt/ )
+
+### David T Sandwell
+
+* <http://topex.ucsd.edu/sandwell/>
+* [Google Scholar]( https://scholar.google.com/citations?user=qvHZLkEAAAAJ&hl=en )
+* [ResearchGate]( http://www.researchgate.net/profile/David_Sandwell )
+
+## JJ Becker
+
+* [Google Scholar]( https://scholar.google.com/citations?user=60G-9DsAAAAJ&hl=en )
+
+
+
+## Articles
+
+### Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30 PLUS
+
+<http://topex.ucsd.edu/sandwell/publications/124_MG_Becker.pdf>
+
+### Improvement of Marine Gravity and Bathymetry
+
+<ftp://topex.ucsd.edu/pub/sandwell/NGA_proposal/ONR_proposal_9.pdf>
+
+
+### Global Sea Floor Topography from Satellite Altimetry and Ship Depth Soundings
+
+[Science magazine, Vol 227, 26 September 1997 pp 1956-162](  http://www.luau.ucsd.edu/sandwell/publications/074_Science_predict2.pdf )
+
+#### Abstract
+
+A digital bathymetric map of the oceans with a horizontal resolution of 1 to 12 kilometers was derived by combining available depth soundings with high-resolution marine gravity information from the Geosat and ERS-1 spacecraft. 
+Previous global bathymetric maps lacked features such as the 1600-kilometer-long Foundation Seamounts chain in the South Pacific. 
+This map shows relations among the distributions of depth, sea floor area, and sea floor age that do not fit the predictions of deterministic models of subsidence
+due to lithosphere cooling but may be explained by a stochastic model in which randomly distributed reheating events warm the lithosphere and raise the ocean floor.
+
+
+
+### Global Bathymetric Prediction for Ocean Modelling and Marine Geophysics
+
+[topex.ucsd.edu/marine_topo/text/topo.html]( http://topex.ucsd.edu/marine_topo/text/topo.html ) 1996
+
+#### Abstract (partial )
+
+We are constructing a complete bathymetric map of the oceans at a 3-10 km resolution by combining all of the available depth soundings collected over the past 30 years with high resolution marine gravity information provided by the Geosat, ERS-1/2, and Topex/Poseidon altimeters. 
+Detailed bathymetry is essential for understanding physical oceanography and marine geophysics. Currents and tides are controlled by the overall shapes of the ocean basins as well as the smaller sharp ocean ridges and seamounts. 
+Because erosion rates are low in the deep oceans, detailed bathymetry reveals the mantle convection patterns, the plate boundaries, the cooling/subsidence of the oceanic lithosphere, the oceanic plateaus, and the distribution of off-ridge volcanoes. 
+Current global digital bathymetry maps (e.g. ETOPO-5) lack many important details such as a 400 km-long ridge that rises to within 135 m of sea level. 
+Moreover, they are contaminated by long-wavelength errors (~2000 km) which prevent accurate identification of seafloor swells associated with mantle plumes [Smith, 1993].
+
 ## Data Sources
 
 The elevation data used here has been collected from:
