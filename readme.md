@@ -21,7 +21,7 @@ Apart from sharing a delight with cartography, Jaanga is not in anyway associate
 
 The bathymetric data is the result of a lot of research and a lot of work sustained over a period of many years.
 
-Among the may persons involved, two stand out:
+Persons involved in the published research and data include::
 
 ### Walter H F Smith
 
@@ -37,7 +37,7 @@ Co-author of the [Generic Mapping Tools]( http://www.soest.hawaii.edu/gmt/ )
 * [Google Scholar]( https://scholar.google.com/citations?user=qvHZLkEAAAAJ&hl=en )
 * [ResearchGate]( http://www.researchgate.net/profile/David_Sandwell )
 
-## JJ Becker
+### Joseph J Becker
 
 * [Google Scholar]( https://scholar.google.com/citations?user=60G-9DsAAAAJ&hl=en )
 
