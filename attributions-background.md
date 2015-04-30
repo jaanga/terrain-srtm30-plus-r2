@@ -1,5 +1,4 @@
-
-Attributions and Background
+SRTM30 Plus Attributions and Background
 ===
 
 
@@ -20,8 +19,15 @@ The SRTM30 Plus project (aka Global Predicted Bathymetry project?) is a data fus
 
 The SRTM30 Plus data was was first published in 2004. The eleventh and most recently published release was published November 19 2014.
 
-Reference:  Smith, W H F, and Sandwell, D T,
+References:  
+
+Smith, W H F, and D T Sandwell, 
 Global seafloor topography from satellite altimetry and ship depth soundings, _Science_, v 77, p1957-1962, 26 September 1997.
+
+Becker, J J, D T Sandwell, W H F Smith, J Braud, B Binder, J Depner, D Fabre, J Factor, S Ingalls, S-H Kim, R Ladner, K Marks, S Nelson, A Pharaoh, R Trimmer, J Von Rosenberg, G.Wallace, P Weatherall, 
+Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS, Marine Geodesy, 32:4, 355-371, 2009.
+
+Data: SIO, NOAA, U.S. Navy, NGA, GEBCO
 
 ## People
 
@@ -52,6 +58,9 @@ Co-author of the [Generic Mapping Tools]( http://www.soest.hawaii.edu/gmt/ )
 
 ### Global Sea Floor Topography from Satellite Altimetry and Ship Depth Soundings
 
+Smith, W H F, and D T Sandwell, 
+Global seafloor topography from satellite altimetry and ship depth soundings, _Science_, v 77, p1957-1962, 26 September 1997.
+
 This is the paper that initiated the SRTM 30 Plus project.
 
 [Science magazine, Vol 227, 26 September 1997 pp 1956-162](  http://www.luau.ucsd.edu/sandwell/publications/074_Science_predict2.pdf )
@@ -63,14 +72,11 @@ Previous global bathymetric maps lacked features such as the 1600-kilometer-long
 This map shows relations among the distributions of depth, sea floor area, and sea floor age that do not fit the predictions of deterministic models of subsidence
 due to lithosphere cooling but may be explained by a stochastic model in which randomly distributed reheating events warm the lithosphere and raise the ocean floor.
 
-## Other Articles of Interest
-
-The following ftp directory at UCSD provides access to many interesting papers and other material
-
-<ftp://topex.ucsd.edu/pub/>
-
 
 ### Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30 PLUS
+
+Becker, J J, D T Sandwell, W H F Smith, J Braud, B Binder, J Depner, D Fabre, J Factor, S Ingalls, S-H Kim, R Ladner, K Marks, S Nelson, A Pharaoh, R Trimmer, J Von Rosenberg, G.Wallace, P Weatherall, 
+Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS, Marine Geodesy, 32:4, 355-371, 2009.
 
 <http://topex.ucsd.edu/sandwell/publications/124_MG_Becker.pdf>
 
@@ -88,6 +94,11 @@ There are 33 matching tiles of source identification number to convey the proven
 every grid cell. The raw sounding data, converted to a simple common format, are also
 available for ftp download.
 
+## Other Articles of Interest
+
+The following ftp directory at UCSD provides access to many interesting papers and other material
+
+<ftp://topex.ucsd.edu/pub/>
 
 ### Improvement of Marine Gravity and Bathymetry
 
