@@ -4,6 +4,8 @@
 
 [Read Me]( #readme.md# )
 
+[Attributions & Background]( #attributions-background.md# )
+
 &raquo; [GitHub source code]( https://github.com/jaanga/terrain-srtm30-plus-r2/ "View files with GitHub" ) <scan style=display:none ><< You are here</scan>  
 
 
@@ -26,7 +28,7 @@ View, access, fork or download the SRTM30 Plus open data.
 
 The following files are included as part of the [SRTM30]( ftp://topex.ucsd.edu/pub/srtm30_plus/topo30/ ) Plus source files:
 
-[Read Me V 9.0]( #./srtm-license-copyright/README.V9.0.txt# )  
+[Read Me V11]( #./srtm-license-copyright/README.V11.txt# )  
 [References SRTM Plus]( #./srtm-license-copyright/REFERENCES_SRTM30_PLUS.txt# )  
 [Copyright notice]( #./srtm-license-copyright/COPYRIGHT.txt# )  
 [General Attribution ( Microsoft Word file)]( ./srtm-license-copyright/general_attribution_011013.doc )
