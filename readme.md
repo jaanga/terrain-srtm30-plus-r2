@@ -1,19 +1,21 @@
-Jaanga Terrain SRTM 30 Plus Read Me
+Jaanga Terrain SRTM30 Plus Read Me
 ===
 
 <span style=display:none; >[View as web page]( http://jaanga.github.io/terrain-srtm30-plus-r2/terrain-srtm30-plus.html "view the files as apps." ) <input value="<< You are here" size=15 style="font:bold 11pt monospace;border-width:0;" ></span>  
 
 Jaanga Terrain repositories with 'SRTM30 Plus' in the title are a set of GitHub repositories with derived data or data viewers 
-that relate to the research efforts of the SRTM30 Plus Global Bathymetry project at the [Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) 
-at [UCSD]( https://scripps.ucsd.edu/ ) along with NOAA, US Navy, NGA, GEBCO
+that relate to the [SRTM30 Plus Global Bathymetry project]( http://topex.ucsd.edu/WWW_html/srtm30_plus.html ) at the [Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) 
+at [UCSD]( https://scripps.ucsd.edu/ ) along with the [NOAA]( http://www.noaa.gov/ ), [US Navy]( https://www.navy.com ), [NGA]( https://www.nga.mil/ ), [GEBCO]( http://www.gebco.net/ )
 
+Full project references, links to papers and more: [SRTM30 Plus Attributions and Background]( http://jaanga.github.io/terrain-srtm30-plus-r2/terrain-srtm30-plus.html#attributions-background.md# )
 
-The Jaanga Terrain repositories include both open data and open source data viewers. Currently the SRTM30 plus data is available in two formats.
+The Jaanga Terrain repositories include both open data and open source data viewers. 
+Currently the SRTM30 plus data is available in two formats.
 
 * PNG heightmaps organized in [Tile Mapping Service (TMS)]( http://en.wikipedia.org/wiki/Tile_Map_Service ) format.
-* PNG heightmaps organized on a 10x10 degree grid format
+* PNG heightmaps organized in a [10x10 degree grid format]( https://github.com/jaanga/terrain-srtm30-plus-data-10degree )
 
-Apart from sharing a delight with cartography, Jaanga is not in anyway associated with the Scripps Institution of Oceanography.
+Apart from sharing a deep delight with bathymetry, Jaanga is not in anyway associated with the Scripps Institution of Oceanography.
 
 
 ## Data Viewers
@@ -24,7 +26,7 @@ The mission is to be able to view data in 3D as quickly and as easily as possibl
 
 As of this writing, four viewers are supplied. Each only begins to scratch the surface of what is possible.
 
-
+4147202174688893
 ## Data Derivations
 
 The mission is to help global bathymetric data be readily available to researchers who may have limited programming experience.
