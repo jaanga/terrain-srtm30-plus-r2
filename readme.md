@@ -5,7 +5,7 @@ Jaanga Terrain SRTM 30 Plus Read Me
 
 Jaanga Terrain repositories with 'SRTM30 Plus' in the title are a set of GitHub repositories with derived data or data viewers 
 that relate to the research efforts of the SRTM30 Plus Global Bathymetry project at the [Scripps Institution of Oceanography]( http://en.wikipedia.org/wiki/Scripps_Institution_of_Oceanography ) 
-at [UCSD]( https://scripps.ucsd.edu/ ) along with NOAA, U.S. Navy, NGA, GEBCO
+at [UCSD]( https://scripps.ucsd.edu/ ) along with NOAA, US Navy, NGA, GEBCO
 
 
 The Jaanga Terrain repositories include both open data and open source data viewers. Currently the SRTM30 plus data is available in two formats.
@@ -43,7 +43,7 @@ The second set of data is in the format of a 10x10 degree grid
 
 [10 Degree PNG Files]( https://github.com/jaanga/terrain-srtm30-plus-data-10degree )
 
-Data: SIO, NOAA, U.S. Navy, NGA, GEBCO
+Data: SIO, NOAA, US Navy, NGA, GEBCO
 
 ## Code
 
