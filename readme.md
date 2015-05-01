@@ -26,7 +26,6 @@ The mission is to be able to view data in 3D as quickly and as easily as possibl
 
 As of this writing, four viewers are supplied. Each only begins to scratch the surface of what is possible.
 
-4147202174688893
 ## Data Derivations
 
 The mission is to help global bathymetric data be readily available to researchers who may have limited programming experience.
