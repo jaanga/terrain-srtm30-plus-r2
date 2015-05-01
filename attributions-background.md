@@ -14,7 +14,7 @@ The Satellite Geodesy group gathers and maintains data on the global seafloor to
 * Radar Altimetry - marine gravity from satellite altimetry
 * Synthetic Aperture Radar - crustal strain and topography from synthetic aperture radar interferometry
 
-The SRTM30 Plus project (aka Global Predicted Bathymetry project?) is a data fusion of 
+The SRTM30 Plus project (aka Global Predicted Bathymetry project) is a data fusion of 
 [SRTM]( http://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission ) land topography with measured and estimated seafloor topography
 
 The SRTM30 Plus data was was first published in 2004. The eleventh and most recently published release was published November 19 2014.
@@ -27,7 +27,7 @@ Global seafloor topography from satellite altimetry and ship depth soundings, _S
 Becker, J J, D T Sandwell, W H F Smith, J Braud, B Binder, J Depner, D Fabre, J Factor, S Ingalls, S-H Kim, R Ladner, K Marks, S Nelson, A Pharaoh, R Trimmer, J Von Rosenberg, G.Wallace, P Weatherall, 
 Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS, Marine Geodesy, 32:4, 355-371, 2009.
 
-Data: SIO, NOAA, US Navy, NGA, GEBCO
+Data: [SIO]( https://scripps.ucsd.edu/ ), [NOAA]( http://www.noaa.gov/ ), [US Navy]( https://www.navy.com ), [NGA]( https://www.nga.mil/ ), [GEBCO]( http://www.gebco.net/ )
 
 ## People
 
